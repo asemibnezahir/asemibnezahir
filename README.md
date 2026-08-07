@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner/banner.png" width="100%" alt="Cyber Security Banner"/>
+<img src="assets/Banner/Banner.png" width="100%" alt="Cyber Security Banner"/>
 
 # Asem Ibne Zahir
 
