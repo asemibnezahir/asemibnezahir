@@ -1,86 +1,41 @@
 <div align="center">
 
-# 🛡️ Asem Ibne Zahir
+<img src="assets/banner/banner.png" width="100%" alt="Cyber Security Banner"/>
+
+# Asem Ibne Zahir
 
 ### Aspiring Cyber Security Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&color=00E5FF&lines=Cyber+Security+Enthusiast;Linux+%7C+Networking+%7C+Python;Building+Secure+Systems;Always+Learning..." />
+<p>
+<a href="https://github.com/asemibnezahir">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=00E5FF&lines=Cyber+Security+Enthusiast;Linux+%7C+Networking+%7C+Python;Building+Secure+Systems;Always+Learning"/>
 
 </div>
 
 ---
 
-# 💻 whoami
+## 💻 whoami
 
 ```bash
-┌──(asem㉿kali)-[~]
+┌──(asem㉿security)-[~]
 └─$ whoami
 
 Name      : Asem Ibne Zahir
 Role      : Aspiring Cyber Security Engineer
 Focus     : Linux • Networking • Python
 University: Daffodil International University
-Mission   : Learn Deeply • Build Securely
+Mission   : Build secure systems through continuous learning.
 ```
-
----
-
-# 🛡️ About Me
-
-- 🔐 Passionate about Cyber Security
-- 🐧 Linux Enthusiast
-- 🌐 Learning Networking
-- 🐍 Python for Security Automation
-- 🚩 Exploring CTF Challenges
-- 💻 Building Hands-on Security Projects
-
----
-
-# ⚔️ Security Arsenal
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,bash,c,cpp"/>
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-- Network Fundamentals
-- Linux Administration
-- Python Automation
-- Ethical Hacking
-- Security Research
-
----
-
-# 🚀 Featured Projects
-
-- GhostOS
-- Smart Route Planner
-- Cyber Security Roadmap
-- Python Security Toolkit *(Coming Soon)*
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=asemibnezahir&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asemibnezahir&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<div align="center">
-
-### Learn Deeply • Build Securely • Think Like a Defender
-
-</div>
