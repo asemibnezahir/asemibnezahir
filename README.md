@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/asem-ibne-zahir/">
+<a href="https://www.linkedin.com/in/asem-ibne-zahir/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
